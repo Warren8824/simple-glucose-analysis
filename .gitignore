@@ -10,3 +10,9 @@
 
 venv/
 .env
+
+# Database files
+
+.sqlite
+.sqlite-shm
+.sqlite-wal
