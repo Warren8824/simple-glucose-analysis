@@ -66,9 +66,9 @@ This project uses real, personal health data that has been anonymized. Insights 
 Contributions to improve the preprocessing tool or extend the analysis are welcome. Please feel free to fork the repository and submit pull requests.
 
 ## Contact
-[Your Name] - [Your Email/LinkedIn - optional]
+Warren Bebbington - Contact me on github.
 
-Project Link: [https://github.com/yourusername/personal-glucose-analysis](https://github.com/Warren8824/personal-glucose-analysis)
+Project Link: [https://github.com/Warren8824/personal-glucose-analysis](https://github.com/Warren8824/personal-glucose-analysis)
 
 ## Acknowledgments
 - Libre sensor technology
