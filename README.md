@@ -68,7 +68,7 @@ Contributions to improve the preprocessing tool or extend the analysis are welco
 ## Contact
 Warren Bebbington - Contact me on github.
 
-Project Link: [https://github.com/Warren8824/personal-glucose-analysis](https://github.com/Warren8824/personal-glucose-analysis)
+Project Link: [https://github.com/Warren8824/simple-glucose-analysis](https://github.com/Warren8824/simple-glucose-analysis)
 
 ## Acknowledgments
 - Libre sensor technology
