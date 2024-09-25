@@ -5,3 +5,8 @@
 # IDE Directories
 
 .idea/
+
+# Environment
+
+venv/
+.env
