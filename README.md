@@ -32,6 +32,40 @@ Note: The specific date range has been anonymized for privacy, and this is not c
 4. Install required packages: `pip install -r requirements.txt`
 5. Launch Jupyter Notebook: `jupyter notebook`
 
+
+## How to Backup SQLite Database from XDrip+ Android App
+
+To manually back up the SQLite database in the XDrip+ app and save it for use in your `simple_glucose_analysis` project, follow these steps:
+
+### Steps to Backup the Database
+
+1. **Open XDrip+ App**:
+   - Launch the XDrip+ app on your Android device.
+
+2. **Access the Menu**:
+   - Tap the **hamburger menu** (three horizontal lines) located at the top right of the screen.
+
+3. **Select Import/Export**:
+   - From the dropdown menu, select **Import/Export**.
+
+4. **Export Database**:
+   - Choose the **Export Database** option.
+   - Follow any prompts to confirm the backup location if necessary.
+
+5. **Save the Database File**:
+   - When prompted to select a save location, choose a folder that is easily accessible.
+   - **Important**: Save the database file (typically named `export.sqlite`) in the main directory of your `simple_glucose_analysis` project.
+
+6. **Verify Backup**:
+   - Ensure the database file is saved correctly in your project directory. You can check this using a file explorer on your device or your computer.
+
+## Using the Database in Your Project
+
+Once the database file is saved in the `simple_glucose_analysis` project directory, you can load it into the preprocessing notebook.
+
+**Note**: It's good practice to back up your database regularly to prevent data loss!
+
+
 ## Project Structure
 - `glucose_analysis.ipynb`: Main analysis notebook
 - `preprocess_libre_data.ipynb`: Notebook for preprocessing Libre sensor data
