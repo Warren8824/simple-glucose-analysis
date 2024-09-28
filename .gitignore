@@ -5,6 +5,7 @@
 # IDE Directories
 
 .idea/
+.git/
 
 # Environment
 
