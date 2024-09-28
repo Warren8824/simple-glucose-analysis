@@ -12,7 +12,7 @@
 This project presents an analysis of authentic continuous glucose monitoring (CGM) data from a person with Type 1 Diabetes (myself). It demonstrates data analysis skills using Python, particularly with time-series health data. Additionally, it includes a preprocessing tool for Libre sensor data, making it adaptable for others to use with their own data.
 
 ## Data Description
-The analysis uses 3 months of:
+The analysis uses around 15 months of:
 - Glucose readings (mmol/L) at 5-minute intervals
 - Insulin doses (units)
 - Carbohydrate intake (grams)
