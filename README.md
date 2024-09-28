@@ -41,10 +41,10 @@ Note: The specific date range has been anonymized for privacy, and this is not c
 ## Using the Preprocessing Tool
 1. Open `preprocess_libre_data.ipynb`
 2. Follow the instructions to input the path to your Libre sensor data
-3. Run the notebook to generate three CSV files: glucose, insulin, and carbs data
+3. Run the notebook to generate two CSV files: glucose data in 5 minute intervals, treatment data containing the sum of all carbs and both bolus and basal insulin doses in the same 5 minute intervals.
 4. Use these files as input for the main analysis notebook
 
-Note: If you use a different CGM with xDrip+, your file layout might differ. You may need to adjust the preprocessing code accordingly.
+Note: If you use a different CGM with xDrip+ or use the sensor manufacturer's software, your file layout might differ. You may need to adjust the preprocessing code accordingly.
 
 ## Running the Analysis
 1. After preprocessing (or using the sample data), open `glucose_analysis.ipynb`
