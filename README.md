@@ -1,5 +1,13 @@
 # Personal Glucose Control Analysis Project
 
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python Version](https://img.shields.io/badge/Python-3.10.12-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-10-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/Warren8824/simple-glucose-analysis)
+
+
 ## Overview
 This project presents an analysis of authentic continuous glucose monitoring (CGM) data from a person with Type 1 Diabetes (myself). It demonstrates data analysis skills using Python, particularly with time-series health data. Additionally, it includes a preprocessing tool for Libre sensor data, making it adaptable for others to use with their own data.
 
@@ -107,4 +115,5 @@ Project Link: [https://github.com/Warren8824/simple-glucose-analysis](https://gi
 ## Acknowledgments
 - Libre sensor technology
 - Open-source Python community
+- XDrip+ Android App
 - Fellow diabetes data enthusiasts
